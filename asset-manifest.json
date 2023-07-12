@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/torrentmovies/static/css/main.3125725d.css",
+    "main.js": "/torrentmovies/static/js/main.e1bc757b.js",
+    "static/css/189.d1408ae2.chunk.css": "/torrentmovies/static/css/189.d1408ae2.chunk.css",
+    "static/js/189.e3601d54.chunk.js": "/torrentmovies/static/js/189.e3601d54.chunk.js",
+    "static/css/802.d1408ae2.chunk.css": "/torrentmovies/static/css/802.d1408ae2.chunk.css",
+    "static/js/802.1d7f637f.chunk.js": "/torrentmovies/static/js/802.1d7f637f.chunk.js",
+    "static/js/787.6dba6075.chunk.js": "/torrentmovies/static/js/787.6dba6075.chunk.js",
+    "static/js/894.77eb7e0a.chunk.js": "/torrentmovies/static/js/894.77eb7e0a.chunk.js",
+    "static/js/260.42756329.chunk.js": "/torrentmovies/static/js/260.42756329.chunk.js",
+    "static/js/347.2962e854.chunk.js": "/torrentmovies/static/js/347.2962e854.chunk.js",
+    "static/js/230.60895570.chunk.js": "/torrentmovies/static/js/230.60895570.chunk.js",
+    "index.html": "/torrentmovies/index.html",
+    "main.3125725d.css.map": "/torrentmovies/static/css/main.3125725d.css.map",
+    "main.e1bc757b.js.map": "/torrentmovies/static/js/main.e1bc757b.js.map",
+    "189.d1408ae2.chunk.css.map": "/torrentmovies/static/css/189.d1408ae2.chunk.css.map",
+    "189.e3601d54.chunk.js.map": "/torrentmovies/static/js/189.e3601d54.chunk.js.map",
+    "802.d1408ae2.chunk.css.map": "/torrentmovies/static/css/802.d1408ae2.chunk.css.map",
+    "802.1d7f637f.chunk.js.map": "/torrentmovies/static/js/802.1d7f637f.chunk.js.map",
+    "787.6dba6075.chunk.js.map": "/torrentmovies/static/js/787.6dba6075.chunk.js.map",
+    "894.77eb7e0a.chunk.js.map": "/torrentmovies/static/js/894.77eb7e0a.chunk.js.map",
+    "260.42756329.chunk.js.map": "/torrentmovies/static/js/260.42756329.chunk.js.map",
+    "347.2962e854.chunk.js.map": "/torrentmovies/static/js/347.2962e854.chunk.js.map",
+    "230.60895570.chunk.js.map": "/torrentmovies/static/js/230.60895570.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3125725d.css",
+    "static/js/main.e1bc757b.js"
+  ]
+}
